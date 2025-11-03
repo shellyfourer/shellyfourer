@@ -8,7 +8,7 @@ I'm a **Software Engineering student** specializing in **Web Development**, blen
 - Building my [portfolio website](https://shellyfourer.github.io/shellyfourer-portfolio)
 - [E-commerce template](https://github.com/shellyfourer/E-commerce-template)
 - SFML + C++ [Music Player](https://github.com/shellyfourer/music-player)
-- Modern frontend development (HTML, CSS, JavaScript → React)  
+- Building [Kristina Fourer's personal blog](https://kristinafourer.com)
 - Experimenting with web game development
 
 ---
