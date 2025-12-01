@@ -5,7 +5,7 @@ I'm a **Software Engineering student** specializing in modern **Full-Stack Web D
 ---
 
 ## 🚀 What I'm Working On
-- Building [Kristina Fourer's personal blog](kristinafourer.com) — full-stack blog system
+- Building [Kristina Fourer's personal blog](https://kristinafourer.com) — full-stack blog system
 - Building my [portfolio website](https://shellyfourer.github.io/shellyfourer-portfolio) — personal showcase
 - [E-commerce template](https://github.com/shellyfourer/E-commerce-template) — for headless websites
 
